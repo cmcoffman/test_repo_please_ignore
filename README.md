@@ -1,2 +1,3 @@
 # test_repo_please_ignore
-Please disregard this repository.
+
+**This repository is for testing purposes only.**
