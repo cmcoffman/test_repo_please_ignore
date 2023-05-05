@@ -6,4 +6,5 @@ Test List:
 - test item 1
 - test item 2
 
-Test branch made.
+
+Test branch merged.
